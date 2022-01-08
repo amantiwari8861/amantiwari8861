@@ -6,7 +6,7 @@
 - #### 👯 I’m looking to collaborate on Hibernate/Spring
 - #### 🤔 I’m looking for help with Angular/React/Node.js
 
-## PortFolio Link : `https://amantiwari8861.github.com/` [Here](https://amantiwari8861.github.com/)
+## PortFolio Link : `https://amantiwari8861.github.io/` [Here](https://amantiwari8861.github.io/)
 
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amantiwari8861&theme=calm&show_icons=true)
 
