@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi there 👋           
+# First Solve the Problem then `Write the Code`
+
 
 - 🔭 I’m currently working on Android by JAVA
 - 🌱 I’m currently learning Kotlin
@@ -15,3 +17,15 @@
 [![Facebook](https://github.frapsoft.com/social/facebook.png)](https://www.facebook.com/amantiwari8861/)
 [![Gitter](https://github.frapsoft.com/social/gitter.png)](https://gitter.im/GNIITwala/community/)
 [![Github](https://github.frapsoft.com/social/github.png)](https://github.com/ellerbrock/)
+
+`https://amantiwari8861.github.com/`
+
+```java    
+   while (noSuccess)
+   {
+       tryAgain();
+       
+       if(Dead)
+       break;
+   }
+   ```
