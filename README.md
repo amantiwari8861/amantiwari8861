@@ -1,14 +1,14 @@
-### Hi there 👋
+## Hi there 👋
 
 - 🔭 I’m currently working on Android by JAVA
 - 🌱 I’m currently learning Kotlin
-- 👯 I’m looking to collaborate on Angular
-- 🤔 I’m looking for help with Node.js
-- 💬 Ask me about ...
-- 📫 How to reach me: [Call me](tel:9891062743)
+- 👯 I’m looking to collaborate on Hibernate/Spring
+- 🤔 I’m looking for help with Angular/React/Node.js
 
-### Contact / Social Media
+## 💬 Ask me about ...
+## 📫 How to reach me : Contact / Social Media
 
+### [Whatsapp me 📲](https://wa.me/919891062743?text=hii)  
 *Get the latest News about Web Development, Open Source, Tooling, Server & Security*
 
 [![Twitter](https://github.frapsoft.com/social/twitter.png)](https://twitter.com/amantiwari8861/)
