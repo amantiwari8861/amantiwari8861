@@ -1,5 +1,5 @@
 # Hi there 👋           
-# First Solve the Problem then `Write the Code`
+#  🥇 First Solve the Problem then `Write the Code`
 
 - 🔭 I’m currently working on Android by JAVA
 - 🌱 I’m currently learning Kotlin
@@ -7,6 +7,10 @@
 - 🤔 I’m looking for help with Angular/React/Node.js
 
 PortFolio Link : `https://amantiwari8861.github.com/` [Here](https://amantiwari8861.github.com/)
+
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amantiwari8861&theme=calm&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amantiwari8861&theme=calm&layout=compact)](https://github.com/amantiwari8861/github-readme-stats)
 
 ```java    
    while (noSuccess)
