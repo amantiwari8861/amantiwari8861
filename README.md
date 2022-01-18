@@ -12,7 +12,7 @@
 
 <a href=""><img alt="Aman Tiwari's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=amantiwari8861&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true" /></a>
 
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amantiwari8861&theme=calm&show_icons=true)  &nbsp;&nbsp;&nbsp;&nbsp;  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amantiwari8861&theme=calm&layout=compact)](https://github.com/amantiwari8861/)
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amantiwari8861&theme=calm&show_icons=true)  &nbsp;&nbsp;  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amantiwari8861&theme=calm&layout=compact)](https://github.com/amantiwari8861/)
 
 ```java    
    while (noSuccess)
