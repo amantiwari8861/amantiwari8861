@@ -2,7 +2,7 @@
 #  🥇 *_First Solve the Problem then `Write the Code`_*
 
 - #### 🔭 I’m currently working on Android bY JAVA
-- #### 🌱 I’m currently learning Kotlin
+- #### 🌱 I’m currently learning Spring Boot
 - #### 👯 I’m looking to collaborate on Hibernate/Spring
 - #### 🤔 I’m looking for help with Angular/React/Node.js
 
