@@ -1,4 +1,8 @@
-# Hi there 👋           
+# Hi there 👋   <p align="right"> <h3>Profile Views :</h3> <img src="https://komarev.com/ghpvc/?username=amantiwari8861&label=Profile%20views&color=0e75b6&style=flat"
+    alt="amantiwari8861" /> 
+  </p>
+
+<br>        
 #  🥇 *_First Solve the Problem then `Write the Code`_*
 
 - #### 🔭 I’m currently working on Android bY JAVA
