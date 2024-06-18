@@ -1,6 +1,4 @@
-# Hi there 👋      
-https://join.skype.com/rbAJ2IHMNjzi
-https://chat.whatsapp.com/GCkCsWoww4jBoxHtjBSFt6
+# Hi there 👋 
 
 #  🥇 *_First Solve the Problem then `Write the Code`_*
 
