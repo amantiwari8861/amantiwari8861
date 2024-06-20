@@ -1,5 +1,6 @@
 # Hi there 👋 
-
+https://join.skype.com/rbAJ2IHMNjzi
+https://chat.whatsapp.com/GCkCsWoww4jBoxHtjBSFt6
 #  🥇 *_First Solve the Problem then `Write the Code`_*
 
 - #### 🔭 I’m currently working on Android bY JAVA
