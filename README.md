@@ -1,12 +1,10 @@
 # Hi there 👋 
-https://join.skype.com/rbAJ2IHMNjzi
-https://chat.whatsapp.com/GCkCsWoww4jBoxHtjBSFt6
+
 #  🥇 *_First Solve the Problem then `Write the Code`_*
 
-- #### 🔭 I’m currently working on Android bY JAVA
-- #### 🌱 I’m currently learning Spring Boot
-- #### 👯 I’m looking to collaborate on Hibernate/Spring
-- #### 🤔 I’m looking for help with Angular/React/Node.js
+- #### 🔭 I’m currently working on Spring Boot MicroServices
+- #### 🌱 I’m currently learning DevOps
+- #### 👯 I’m looking to collaborate on Spring Boot nd React
 
 ## PortFolio Link : `https://amantiwari8861.github.io/` [Here](https://amantiwari8861.github.io/)
 
