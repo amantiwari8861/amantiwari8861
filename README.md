@@ -1,5 +1,5 @@
 https://chat.whatsapp.com/KrmQqcR4blP9SbHa2zozNx
-
+https://join.skype.com/rxJY3MSumY7Z
 # Hi there 👋 
 
 #  🥇 *_First Solve the Problem then `Write the Code`_*
