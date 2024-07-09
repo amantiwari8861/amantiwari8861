@@ -1,7 +1,8 @@
 Java Group : https://chat.whatsapp.com/JxObWaDJNJY8yv8ogl17dF
+Web Designing Link:  https://chat.whatsapp.com/KrmQqcR4blP9SbHa2zozNx    Skype :https://join.skype.com/rxJY3MSumY7Z
+DSA Group : https://chat.whatsapp.com/JYyGUd1OKzD6uzvJxbyOQg
 
-Web Designing Link:  https://chat.whatsapp.com/KrmQqcR4blP9SbHa2zozNx
-https://join.skype.com/rxJY3MSumY7Z
+
 # Hi there 👋 
 
 #  🥇 *_First Solve the Problem then `Write the Code`_*
