@@ -1,7 +1,7 @@
 Java Group : https://chat.whatsapp.com/JxObWaDJNJY8yv8ogl17dF <br>
 Web Designing Link:  https://chat.whatsapp.com/KrmQqcR4blP9SbHa2zozNx    Skype :https://join.skype.com/rxJY3MSumY7Z
 <br>
-DSA Group : https://chat.whatsapp.com/JYyGUd1OKzD6uzvJxbyOQg
+DSA Group : https://chat.whatsapp.com/JYyGUd1OKzD6uzvJxbyOQg    Skype : https://join.skype.com/uc41u1Stc2gi
 
 
 # Hi there 👋 
