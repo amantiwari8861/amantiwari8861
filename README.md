@@ -1,7 +1,26 @@
 Java Group : https://chat.whatsapp.com/JxObWaDJNJY8yv8ogl17dF <br>
 Web Designing Link:  https://chat.whatsapp.com/KrmQqcR4blP9SbHa2zozNx    Skype :https://join.skype.com/rxJY3MSumY7Z
+     Zoom Link 
+      Aman tiwari is inviting you to a scheduled Zoom meeting.
+
+Topic: W/D Am WebDesigning@11:30
+Time: This is a recurring meeting Meet anytime
+
+Join Zoom Meeting
+https://us05web.zoom.us/j/89392073418?pwd=9JZboYfIeJTwgnHIxD1kiSLxJSNplW.1
+
+Meeting ID: 893 9207 3418
+Passcode: 9DrRAN
+
+
+
+
 <br>
 DSA Group : https://chat.whatsapp.com/JYyGUd1OKzD6uzvJxbyOQg    Skype : https://join.skype.com/uc41u1Stc2gi
+
+Web
+
+
 
 
 # Hi there 👋 
