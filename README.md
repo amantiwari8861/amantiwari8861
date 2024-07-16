@@ -4,8 +4,10 @@ W/E Am Java@12:30 🕥 <br>
 whatsapp group : https://chat.whatsapp.com/GJb2Ovn7nZHIJCUMXInHcu <br>
 zoom link : https://us05web.zoom.us/j/87822837363?pwd=IUG7bfACf9LqL8JRexmZV2q7lVUWDe.1 <br>
 
-
-
+W/D Am Java@5 <br>
+whatsapp group :  https://chat.whatsapp.com/I68lD82lGWB3GI6YRo3p79  <br>
+Zoom Meeting link : https://us05web.zoom.us/j/84981164669?pwd=zgQ5b6mART8uGH5o6hT7GNzsx3R6zG.1
+</br>
 # Hi there 👋 
 
 #  🥇 *_First Solve the Problem then `Write the Code`_*
