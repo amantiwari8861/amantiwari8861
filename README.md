@@ -11,6 +11,9 @@ Zoom Meeting link : https://us05web.zoom.us/j/84981164669?pwd=zgQ5b6mART8uGH5o6h
 
 W/E SQL@9:30 
 meeting link : https://us05web.zoom.us/j/86294772195?pwd=7MaPJjFj38f2VrMnboZCvm6aEmTMxa.1 <br>
+whatsapp group : https://chat.whatsapp.com/IuYghIJAjPLC0uDfr5DZUX <br>
+recording : https://drive.google.com/drive/folders/1eU8COW2mo5z9rdsIAUq5EXMjRtSLCY3b?usp=sharing <br>
+
 # Hi there 👋 
 
 #  🥇 *_First Solve the Problem then `Write the Code`_*
