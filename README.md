@@ -8,6 +8,9 @@ W/D Am Java@5 <br>
 whatsapp group :  https://chat.whatsapp.com/I68lD82lGWB3GI6YRo3p79  <br>
 Zoom Meeting link : https://us05web.zoom.us/j/84981164669?pwd=zgQ5b6mART8uGH5o6hT7GNzsx3R6zG.1
 </br>
+
+W/E SQL@9:30 
+meeting link : https://us05web.zoom.us/j/86294772195?pwd=7MaPJjFj38f2VrMnboZCvm6aEmTMxa.1 <br>
 # Hi there 👋 
 
 #  🥇 *_First Solve the Problem then `Write the Code`_*
