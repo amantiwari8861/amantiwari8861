@@ -1,29 +1,3 @@
-Google Meet : https://meet.google.com/yrp-peoq-akz <br>
-
-W/E Am Java@12:30 🕥 <br>
-whatsapp group : https://chat.whatsapp.com/GJb2Ovn7nZHIJCUMXInHcu <br>
-zoom link : https://us05web.zoom.us/j/87822837363?pwd=IUG7bfACf9LqL8JRexmZV2q7lVUWDe.1 <br>
-
-W/D Am Java@5 <br>
-whatsapp group :  https://chat.whatsapp.com/I68lD82lGWB3GI6YRo3p79  <br>
-Zoom Meeting link : https://us05web.zoom.us/j/84981164669?pwd=zgQ5b6mART8uGH5o6hT7GNzsx3R6zG.1
-</br>
-
-W/D Am Python@7:30 <br>
-whatsapp group : https://chat.whatsapp.com/BjoS0xjwaruCCkgSxoL86X <br>
-zoom meeting link : https://us05web.zoom.us/j/81990976604?pwd=XUh2aKIdaVFuSlSew5tCkNl4ASakOR.1 <br>
-recording link : https://drive.google.com/drive/folders/1qTSOHa1d1mEW3XXXRStrSJowbiWfycfp?usp=drive_link <br>
-
-
-W/E SQL@9:30 
-meeting link : https://us05web.zoom.us/j/86294772195?pwd=7MaPJjFj38f2VrMnboZCvm6aEmTMxa.1 <br>
-whatsapp group : https://chat.whatsapp.com/IuYghIJAjPLC0uDfr5DZUX <br>
-recording : https://drive.google.com/drive/folders/1eU8COW2mo5z9rdsIAUq5EXMjRtSLCY3b?usp=sharing <br>
-
-
-
-
-
 # Hi there 👋 
 
 #  🥇 *_First Solve the Problem then `Write the Code`_*
