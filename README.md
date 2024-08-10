@@ -1,3 +1,6 @@
+SQL 2:30 :   https://chat.whatsapp.com/HpaerxZ3Zg41cyUQ6N48RA   <br>
+
+
 # Hi there 👋 
 
 #  🥇 *_First Solve the Problem then `Write the Code`_*
