@@ -2,7 +2,7 @@
 
 #  🥇 *_First Solve the Problem then `Write the Code`_*
 
-# check my Youtube Channel [Click Here](https://www.youtube.com/@gniitwala3807)
+# check my Youtube Channel [Click Here](https://www.youtube.com/@seniordevtuts/playlists)
 
 - #### 🔭 I’m currently working on Spring Boot MicroServices
 - #### 🌱 I’m currently learning DevOps
