@@ -1,97 +1,145 @@
-# Hi there 👋 
+# Hi, I'm Aman Tiwari 👋
 
-#  🥇 *_First Solve the Problem then `Write the Code`_*
+### Java Full Stack Developer | Spring Boot & Microservices | Backend Engineering
 
-# check my Youtube Channel [Click Here](https://www.youtube.com/@seniordevtuts/playlists)
+I am a **Java Full Stack Developer with 5 years of experience**, focused on building scalable backend applications, secure REST APIs, and microservices-based systems.
 
-- #### 🔭 I’m currently working on Spring Boot MicroServices
-- #### 🌱 I’m currently learning DevOps
-- #### 👯 I’m looking to collaborate on Spring Boot nd React
+I enjoy solving complex problems, designing maintainable software, and continuously learning modern technologies across backend engineering, cloud, and DevOps. I also enjoy sharing technical knowledge and helping developers strengthen their programming skills.
 
-## Youtube Link for C++ : [Click Here](https://www.youtube.com/watch?v=x51pALkC5bo&list=PL1xhBcK58xmYaja5iAq1_go3Lui1IiCgo&index=1)
-## PortFolio Link : `https://amantiwari8861.github.io/` [Here](https://amantiwari8861.github.io/)
+- 🔭 **Currently working with:** Java, Spring Boot, REST APIs, and Microservices
+- 🌱 **Currently learning:** DevOps, CI/CD, and cloud-native technologies
+- 💻 **Interested in:** Backend Engineering, Distributed Systems, and Full Stack Development
+- 👨‍🏫 **Also passionate about:** Technical mentoring and developer education
+- 🎯 **Engineering philosophy:** First solve the problem, then write the code.
+- 🌐 **Portfolio:** [amantiwari8861.github.io](https://amantiwari8861.github.io/)
+- 📺 **YouTube:** [Senior Dev Tuts](https://www.youtube.com/@seniordevtuts/playlists)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amantiwari8861&theme=dark)](https://github.com/amantiwari8861) 
+---
 
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amantiwari8861&theme=calm&show_icons=true)&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amantiwari8861&theme=calm&layout=compact)](https://github.com/amantiwari8861/)
+## 🛠️ Technical Skills
 
-```java    
-   while (noSuccess)
-   {
-       tryAgain();
-       if(Dead)
-       break;
-   }
-   ```
-   <!--
-   ### Languages and Tools:
+### Backend Development
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
-[<code>
-<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
-</code>](https://code.visualstudio.com/)&nbsp;&nbsp;
-[<code>
-<img alt="intellij idea" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
-</code>](https://www.jetbrains.com/idea/)&nbsp;&nbsp;
-[<code>
-<img alt="pycharm" width="26px" src="https://img.icons8.com/color/240/000000/pycharm.png" />
-</code>](https://www.jetbrains.com/pycharm/)&nbsp;&nbsp;
-[<code>
-<img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
-</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;&nbsp;
-[<code>
-<img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
-</code>](https://docs.oracle.com/en/java/)&nbsp;&nbsp;
-[<code>
-<img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
-</code>](https://www.python.org/)&nbsp;&nbsp;
-[<code>
-<img alt="typescript" width="26px" src="https://img.icons8.com/color/240/000000/typescript.png">
-</code>](https://www.typescriptlang.org/)&nbsp;&nbsp;
-[<code>
-<img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/HTML)&nbsp;&nbsp;
-[<code>
-<img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/CSS)</br></br>
-[<code>
-<img alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
-</code>](https://www.json.org/json-en.html)&nbsp;&nbsp;
-[<code>
-<img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-</code>](https://dev.mysql.com/)&nbsp;&nbsp;
-[<code>
-<img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
-</code>](https://git-scm.com/)&nbsp;&nbsp;
-[<code>
-<img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
-</code>](https://github.com/)&nbsp;&nbsp;
-[<code>
-<img alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
-</code>](https://docs.microsoft.com/en-us/windows/terminal/)&nbsp;&nbsp;
-[<code>
-<img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
-</code>](https://www.microsoft.com/en-us/windows)&nbsp;&nbsp;
-[<code>
-<img alt="ubuntu" width="26px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">
-</code>](https://ubuntu.com/)&nbsp;&nbsp;
-[<code>
-<img alt="macos" width="26px" src="https://img.icons8.com/officel/160/000000/mac-logo.png">
-</code>](https://developer.apple.com/macos/)&nbsp;&nbsp;
-[<code>
-<img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
-</code>](https://www.kernel.org/)&nbsp;&nbsp;
--->
+- Core Java, OOP, Collections, Multithreading, and JVM fundamentals
+- Spring Boot, Spring MVC, Spring Security, Spring Data JPA, and Hibernate
+- RESTful API design, JWT authentication, and OAuth 2.0
+- Microservices architecture and service-to-service communication
+- API documentation with Swagger / OpenAPI
 
-## 📫 How to reach me : Contact / Social Media
+### Frontend Development
 
-*Get the latest News about Web Development, Open Source, Tooling, Server & Security*
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-<a href="https://linkedin.com/in/amantiwari8861" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amantiwari8861" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/14612285/aman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14612285/aman" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/amantiwari8861" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amantiwari8861" height="50" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://medium.com/@amantiwari8861" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@amantiwari8861" height="50" width="40" /></a></br></br>
-[![Whatsapp](https://github.com/amantiwari8861/C_Batch_11_to_12/blob/master/whatsapp.png)](https://wa.me/919891062743/)
-[![Facebook](https://github.frapsoft.com/social/facebook.png)](https://www.facebook.com/amantiwari8861/)
-<a href="mailto:amantiwari8861@gmail.com"><img src="https://github.com/amantiwari8861/C_Batch_11_to_12/blob/master/mail.png"></a>&nbsp;&nbsp;
-[![Twitter](https://github.frapsoft.com/social/twitter.png)](https://twitter.com/@AmanTiw61298258/)
-<!-- [![Gitter](https://github.frapsoft.com/social/gitter.png)](https://gitter.im/GNIITwala/community/) -->
+- React.js, Next.js, Angular, JavaScript, and TypeScript
+- Responsive UI development and REST API integration
+- Authentication flows and full-stack application development
+
+### Databases & Messaging
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+- Relational database design, SQL, and query optimization
+- ORM and persistence using Hibernate and Spring Data JPA
+- Caching with Redis and event-driven messaging with Kafka
+
+### DevOps, Cloud & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+
+- Docker, Docker Compose, and containerized application deployment
+- Jenkins, CI/CD pipelines, and GitHub Actions
+- AWS EC2, Linux, Nginx, and application deployment
+- Git, GitHub, Maven, and IntelliJ IDEA
+
+---
+
+## 🚀 Featured Projects
+
+Explore my repositories for Java backend development, full-stack applications, and practical programming examples.
+
+- **[Amazon — E-commerce Application](https://github.com/amantiwari8861)** — Explore my repositories for e-commerce and application development projects.
+- **[Spring Boot & Microservices](https://github.com/amantiwari8861?tab=repositories&q=spring&type=source)** — Backend services, API development, and microservices-related work.
+- **[All GitHub Repositories](https://github.com/amantiwari8861?tab=repositories)** — Browse my projects, experiments, and learning resources.
+
+---
+
+## 📺 Learning & Knowledge Sharing
+
+I believe that understanding the fundamentals is as important as learning new frameworks.
+
+- 🎥 [Senior Dev Tuts — YouTube](https://www.youtube.com/@seniordevtuts/playlists)
+- 💻 [C++ Programming Playlist](https://www.youtube.com/watch?v=x51pALkC5bo&list=PL1xhBcK58xmYaja5iAq1_go3Lui1IiCgo&index=1)
+- 🌐 [My Portfolio](https://amantiwari8861.github.io/)
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amantiwari8861&show_icons=true&theme=github_dark&hide_border=true" alt="Aman's GitHub statistics" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amantiwari8861&layout=compact&theme=github_dark&hide_border=true" alt="Most used programming languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amantiwari8861&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always happy to connect with developers, exchange ideas, discuss software architecture, and explore interesting engineering challenges.
+
+<p align="left">
+  <a href="https://linkedin.com/in/amantiwari8861">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/amantiwari8861">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.youtube.com/@seniordevtuts/playlists">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://instagram.com/amantiwari8861">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:amantiwari8861@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+### 💡 A Developer's Mindset
+
+```java
+while (!problem.isSolved()) {
+    analyzeProblem();
+    designSolution();
+    writeCleanCode();
+    testAndImprove();
+}
+```
+
+**First solve the problem, then write the code.**
+
+Thanks for visiting my profile! ⭐
